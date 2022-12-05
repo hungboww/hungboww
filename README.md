@@ -4,8 +4,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+## Go Go Go 
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://www.freecodecamp.org/news/content/images/2022/03/dancing-gopher.gif)
 ## GitHub Stats
-
 If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can interact with your 3D graph, make a video, download the STL file, add annotations, and even view it in Virtual Reality - you'll need a phone and a Google Cardboard to do this, or you can break out the fancy VR headsets. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
 
 ```ascii    
